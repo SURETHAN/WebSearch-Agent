@@ -1,6 +1,6 @@
 import asyncio
 import streamlit as st
-from openai_agents import Agent, Runner, WebSearchTool
+from agents import Agent, Runner, WebSearchTool
 
 # Load instructions
 with open("instruction.txt", "r") as f:
