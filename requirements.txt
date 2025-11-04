@@ -1,3 +1,10 @@
 streamlit
 agents
 tensorflow
+aiohttp
+python-dateutil
+backoff
+loguru
+langsearch
+asyncio
+duckduckgo-search
